@@ -1,5 +1,5 @@
 package ruslan.araslanov;
-//SRP - Абстрактны клас.
+//SRP - Абстрактный класс.
 //Хранит данные о товаре
 //Не знает о заказах , корзине итд
 public abstract class Product {
